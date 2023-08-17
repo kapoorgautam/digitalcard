@@ -273,15 +273,17 @@
        }
 
        #hero  #contacts{
-        margin-top: 8rem;
-        display: flex;
+        margin-top: 10rem;
+        /* display: flex; */
         justify-content: space-around;
+        align-items: center;
+
        } 
        #hero  #contacts butto{
         background: #2F3C69;
         border-radius: 2rem;
-        padding: 1rem 1rem;
-        margin-top: 1rem;
+        padding: 0.3rem 1rem;
+        margin-left: 1rem;
        }
        #hero  #contacts butto a{
             color: #E3DDDC;
