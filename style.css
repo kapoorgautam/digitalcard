@@ -247,14 +247,14 @@
           }
      
        #hero>.right>ul{
-        margin-top: 20rem;
+        margin-top: 21rem;
         margin-left: 12rem ;
         font-size: 0.7rem;
         line-height: 1rem;
        }
        #hero>.left ul{
         
-          margin-top: 20rem;
+          margin-top: 21rem;
           margin-left: 1rem;
           font-size: 0.7rem;
           line-height: 1rem;
@@ -262,7 +262,7 @@
        #hero>.btn button {
     font-size: 1rem;
     margin: 0rem 4rem;
-    margin-top: 140%;
+    margin-top: 92%;
 
        }
        #hero>.btn button a{
@@ -273,7 +273,7 @@
        }
 
        #hero  #contacts{
-        margin-top: 1rem;
+        margin-top: 8rem;
         display: flex;
         justify-content: space-around;
        } 
